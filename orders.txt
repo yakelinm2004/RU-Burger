@@ -1,0 +1,12 @@
+Order #: 3
+1x Small apple slices - $1.29
+Subtotal: $1.29 
+Tax: $0.09 
+Total: $1.38
+---------------------
+Order #: 4
+1x ROAST_BEEF Sandwich on BRIOCHE with tomatoes, cheese - $12.29
+Subtotal: $12.29 
+Tax: $0.81 
+Total: $13.10
+---------------------
